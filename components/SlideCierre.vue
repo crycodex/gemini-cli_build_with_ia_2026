@@ -8,7 +8,7 @@
     <div class="eyebrow">Gracias</div>
     <h1 class="title" style="font-size:140px!important; line-height:0.95!important;">Preguntas.</h1>
     <p class="lede" style="font-size:32px; margin-top:28px;">
-      Instala, rompé cosas, vení con dudas.<br>
+      Instala, rompe cosas, ven con dudas.<br>
       <span style="color:var(--text-mute)">El workshop sigue en el Q&amp;A.</span>
     </p>
     <div class="spacer"></div>
