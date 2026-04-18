@@ -294,9 +294,21 @@ p.lede {
 /* ── Mono util ──────────────────────────────────────────────────────── */
 .mono { font-family: var(--mono); }
 
-/* ── Ocultar slide‑picker / navigator panel ─────────────────────────── */
+/* ── Ocultar UI de Slidev (Controles, Paneles, Dialogs) ──────────────── */
+#slidev-controls,
+.slidev-controls,
+.slidev-drawer,
+#slidev-drawer,
+.slidev-dialog,
 .slidev-nav-panel,
 .slidev-slide-list,
 .slidev-slides-nav,
 nav.slidev-nav > .slidev-nav-top,
-.slidev-overlay { display: none !important; }
+.slidev-overlay,
+#slidev-goto-dialog,
+.autocomplete-list {
+  display: none !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+  visibility: hidden !important;
+}
