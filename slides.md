@@ -21,7 +21,7 @@ transition: fade
 
 ---
 
-<SlideSection number="01" title="¿Qué es Gemini CLI?" subtitle="Una terminal conectada a Gemini. Nada más, nada menos." />
+<SlideSection number="01" title="¿Qué es Gemini CLI?" subtitle="Una terminal conectada a Gemini. Nada más, nada menos." eyebrow="Capítulo uno" idx="04" />
 
 ---
 
@@ -37,7 +37,7 @@ transition: fade
 
 ---
 
-<SlideSection number="02" title="Instalación &amp; setup." subtitle="Cero a primer prompt en tres minutos." />
+<SlideSection number="02" title="Instalación &amp; setup." subtitle="Cero a primer prompt en tres minutos." eyebrow="Capítulo dos" idx="08" />
 
 ---
 
@@ -49,7 +49,7 @@ transition: fade
 
 ---
 
-<SlideSection number="03" title="Comandos esenciales." subtitle="El vocabulario mínimo viable." />
+<SlideSection number="03" title="Comandos esenciales." subtitle="El vocabulario mínimo viable." eyebrow="Capítulo tres" idx="11" />
 
 ---
 
@@ -61,7 +61,7 @@ transition: fade
 
 ---
 
-<SlideSection number="04" title="Casos de uso reales." subtitle="Tres que uso cada día." />
+<SlideSection number="04" title="Casos de uso reales." subtitle="Tres que uso cada día." eyebrow="Capítulo cuatro" idx="14" />
 
 ---
 
