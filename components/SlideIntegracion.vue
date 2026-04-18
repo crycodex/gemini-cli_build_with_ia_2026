@@ -4,26 +4,38 @@
       <span class="tag"><span class="dot"></span>integration.md</span>
       <span class="idx">20 / 22</span>
     </div>
-    <h2 class="title">Integración con<br>Google Antigravity.</h2>
-    <p class="lede">Llevando el poder de Gemini CLI directo al ecosistema de desarrollo de Antigravity.</p>
+    <h2 class="title" style="font-size:76px!important; margin-bottom:12px!important;">Integración con<br>Google Antigravity.</h2>
 
-    <div class="split-3" style="margin-top:56px;">
-      <div class="card">
-        <span class="k" style="color:var(--accent)">01 · Workflow local</span>
-        <h4>Asistente nativo</h4>
-        <p style="margin-top:8px">Generación de código, refactors de arquitectura y componentes vue de Antigravity directamente desde tu iteración en terminal.</p>
+    <div class="split-2" style="margin-top:24px; grid-template-columns: 0.8fr 1.2fr; align-items: center;">
+      <div class="steps" style="gap:unset;">
+        <div class="step">
+          <span class="n" style="color:var(--accent)">01</span>
+          <div>
+            <h4>Asistente nativo</h4>
+            <p>Generación de componentes de Antigravity directo desde la terminal.</p>
+          </div>
+        </div>
+        <div class="step">
+          <span class="n" style="color:var(--accent-2)">02</span>
+          <div>
+            <h4>Codebase aware</h4>
+            <p>Conocimiento absoluto de patrones usando <code>GEMINI.md</code>.</p>
+          </div>
+        </div>
+        <div class="step">
+          <span class="n" style="color:var(--accent-3)">03</span>
+          <div>
+            <h4>CI / CD scriptable</h4>
+            <p>Automatizaciones integradas al flujo de despliegue mediante prefijos.</p>
+          </div>
+        </div>
       </div>
-      <div class="card">
-        <span class="k" style="color:var(--accent-2)">02 · Contexto profundo</span>
-        <h4>Codebase aware</h4>
-        <p style="margin-top:8px">Conocimiento absoluto de todo el workspace local, convenciones de estilos y patrones de diseño mediante <code class="mono">GEMINI.md</code>.</p>
-      </div>
-      <div class="card">
-        <span class="k" style="color:var(--accent-3)">03 · Shell operations</span>
-        <h4>CI / CD scriptable</h4>
-        <p style="margin-top:8px">Ejecución de automatizaciones y comandos integrados al flujo de despliegue usando los prefijos de entorno (!).</p>
+      
+      <div class="screenshot" style="width: 100%; position: relative;">
+        <!-- Escalar la imagen un poco más grande del contenedor para que tome más protagonismo -->
+        <img src="/antigravity-ui.webp" alt="Antigravity UI" style="border-radius:14px; box-shadow:0 30px 60px rgba(0,0,0,0.5); border:1px solid var(--line); width:110%; max-width:110%; height:auto; transform: translateX(5%);" />
       </div>
     </div>
-    <div class="footer"><span>19 / integración</span><span>google antigravity ecosystem</span></div>
+    <div class="footer"><span>20 / integración</span><span>google antigravity ecosystem</span></div>
   </div>
 </template>
