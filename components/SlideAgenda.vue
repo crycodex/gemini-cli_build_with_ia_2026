@@ -20,6 +20,6 @@
       </div>
     </div>
 
-    <div class="footer"><span>cristhian recalde · mobile dev</span><span>antigravity / gemini-cli</span></div>
+    <div class="footer"><span>Cristhian Recalde · Mobile Engineer</span><span>antigravity / gemini-cli</span></div>
   </div>
 </template>

@@ -34,7 +34,7 @@
           <div style="display:grid; grid-template-columns:24px 1fr; gap:14px; align-items:baseline;">
             <span style="font-family:var(--mono); color:var(--accent-2); font-size:18px;">02</span>
             <p style="margin:0; color:var(--text-dim); font-size:19px; font-weight:300; line-height:1.5;">
-              He construido apps robustas de alto rendimiento para <span style="color:var(--text)">StartUps de Estados Unidos y Ecuador</span> con tecnologías modernas.
+              He construido apps robustas de alto rendimiento para <span style="color:var(--text)">StartUps a nivel Global y Ecuador</span> con tecnologías modernas.
             </p>
           </div>
           <div style="display:grid; grid-template-columns:24px 1fr; gap:14px; align-items:baseline;">
@@ -54,6 +54,6 @@
       </div>
     </div>
 
-    <div class="footer"><span>cristhian recalde · mobile dev</span><span>@crecalde</span></div>
+    <div class="footer"><span>Cristhian Recalde · Mobile Engineer</span><span>@cr.code</span></div>
   </div>
 </template>
