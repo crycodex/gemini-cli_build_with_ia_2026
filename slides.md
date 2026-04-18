@@ -121,6 +121,12 @@ title: "Tips & tricks"
 <SlideTips />
 
 ---
+title: "Integración Google Antigravity"
+---
+
+<SlideIntegracion />
+
+---
 title: Demo en vivo
 ---
 
