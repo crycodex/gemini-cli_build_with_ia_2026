@@ -2,6 +2,7 @@
 theme: default
 title: Antigravity con Gemini CLI
 colorSchema: dark
+canvasWidth: 1920
 fonts:
   sans: Inter
   mono: JetBrains Mono
