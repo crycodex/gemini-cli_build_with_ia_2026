@@ -16,7 +16,7 @@
         </tr>
       </thead>
       <tbody>
-        <tr><td>Modelo base</td><td>Gemini 2.5 Pro / Flash</td><td>Claude Sonnet / Opus</td></tr>
+        <tr><td>Modelo base</td><td>Gemini 3.0 Pro</td><td>Claude Sonnet / Opus</td></tr>
         <tr><td>Licencia</td><td><span class="pill ok">Apache 2.0</span></td><td><span class="pill mid">Propietario</span></td></tr>
         <tr><td>Ventana de contexto</td><td>1M tokens</td><td>200K tokens</td></tr>
         <tr><td>Multimodal nativo</td><td><span class="pill ok">Sí — img, pdf, audio</span></td><td><span class="pill mid">Imágenes</span></td></tr>

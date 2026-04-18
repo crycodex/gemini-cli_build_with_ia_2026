@@ -16,7 +16,7 @@
         <div style="margin-top:32px; display:flex; gap:10px; flex-wrap:wrap;">
           <span class="pill"><span class="pd"></span>Apache 2.0</span>
           <span class="pill"><span class="pd"></span>Node 18+</span>
-          <span class="pill"><span class="pd"></span>Gemini 2.5 Pro</span>
+          <span class="pill"><span class="pd"></span>Gemini 3 Pro</span>
         </div>
       </div>
       <div>

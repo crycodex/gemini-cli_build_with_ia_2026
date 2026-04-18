@@ -3,7 +3,7 @@
     <div class="demo-inner">
       <div class="rec"><span class="r-dot"></span>live · demo</div>
       <h2>Demo<br>en vivo.</h2>
-      <div class="sub">cambiamos a la terminal · espero 3s</div>
+      <div class="sub">cambiamos a la terminal</div>
     </div>
   </div>
 </template>

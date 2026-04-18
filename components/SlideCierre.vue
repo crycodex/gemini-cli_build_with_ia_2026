@@ -19,7 +19,7 @@
         <div style="color:var(--text-mute); margin-top:2px;">Mobile Developer</div>
       </div>
       <div>
-        <div style="color:var(--text-mute); font-size:11px; letter-spacing:0.15em; text-transform:uppercase; margin-bottom:8px;">Probá tú mismo</div>
+        <div style="color:var(--text-mute); font-size:11px; letter-spacing:0.15em; text-transform:uppercase; margin-bottom:8px;">Pruebalo tú mismo</div>
         <div style="color:var(--accent)">npm i -g @google/gemini-cli</div>
         <div style="color:var(--text-mute); margin-top:2px;">github.com/google-gemini/gemini-cli</div>
       </div>

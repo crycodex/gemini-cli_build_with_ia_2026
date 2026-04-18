@@ -19,7 +19,7 @@
       </div>
       <div class="card">
         <span class="k">tip · 03</span>
-        <h4>Usá Flash para iterar.</h4>
+        <h4>Usa Flash para iterar.</h4>
         <p>Pro para tareas pesadas, Flash para Q&amp;A. Se cambia con <code class="mono" style="color:var(--accent-3)">/model</code>.</p>
       </div>
       <div class="card">
